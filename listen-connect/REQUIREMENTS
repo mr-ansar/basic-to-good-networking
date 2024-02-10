@@ -1,0 +1,10 @@
+altgraph==0.17.4
+ansar-connect==0.1.48
+ansar-create==0.1.57
+ansar-encode==0.1.119
+defusedxml==0.7.1
+packaging==23.2
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2024.0
+python-dateutil==2.8.2
+six==1.16.0
