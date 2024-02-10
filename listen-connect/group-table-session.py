@@ -28,7 +28,7 @@ is passed to the GroupTable object.
 Ths big difference here is that the session object is a "pure application"
 object, i.e. it is not infected with any networking details. It has all the
 address information accumulated by GroupTable (passed as the group parameter)
-and can immediately begin whatever interactions it needs to carry out.
+and can use this in subsequent interactions.
 '''
 import ansar.connect as ar
 
